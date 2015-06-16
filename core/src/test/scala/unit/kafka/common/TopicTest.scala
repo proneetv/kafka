@@ -19,7 +19,6 @@ package kafka.common
 
 import junit.framework.Assert._
 import collection.mutable.ArrayBuffer
-import kafka.common.{Topic, InvalidTopicException}
 import org.junit.Test
 
 class TopicTest {

@@ -19,7 +19,6 @@ package kafka
 import java.io.{FileOutputStream, File}
 import java.security.Permission
 
-import kafka.Kafka
 import kafka.server.KafkaConfig
 import org.junit.{After, Before, Test}
 import junit.framework.Assert._

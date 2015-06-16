@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package unit.kafka
+package kafka
 
 import java.io.{FileOutputStream, File}
 import java.security.Permission

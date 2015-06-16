@@ -15,7 +15,7 @@
  * limitations under the License.
 */
 
-package unit.kafka.zk
+package kafka.zk
 
 import junit.framework.Assert
 import kafka.consumer.ConsumerConfig

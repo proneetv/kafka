@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package unit.kafka.utils
+package kafka.utils
 
 import junit.framework.Assert._
 import org.junit.{Test, After, Before}

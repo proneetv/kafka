@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package unit.kafka.consumer
+package kafka.consumer
 
 import org.scalatest.junit.JUnit3Suite
 import org.easymock.EasyMock

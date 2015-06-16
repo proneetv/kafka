@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package unit.kafka.utils
+package kafka.utils
 
 import java.util.concurrent.TimeUnit
 

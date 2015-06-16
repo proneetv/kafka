@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package unit.kafka.log
+package kafka.log
 
 import java.util.Properties
 

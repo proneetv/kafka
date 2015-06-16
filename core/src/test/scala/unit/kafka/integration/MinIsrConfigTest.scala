@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package unit.kafka.integration
+package kafka.integration
 
 import java.util.Properties
 
